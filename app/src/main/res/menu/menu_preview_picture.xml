@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/menuShare"
+        android:title="@string/share"
+        android:icon="@drawable/ic_share_white_18dp"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/menuSetPictureAs"
+        android:title="@string/set_picture_as" />
+    <item
+        android:id="@+id/menuAbout"
+        android:title="@string/about" />
+</menu>

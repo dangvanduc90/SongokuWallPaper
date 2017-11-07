@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SongokuWallPaper</string>
+    <string name="set_picture_as">Set Picture As</string>
+    <string name="share">Share</string>
+    <string name="about">About</string>
+    <string name="copyright">Copyright &#169; 2017</string>
+    <string name="build_version">Build version</string>
+</resources>
